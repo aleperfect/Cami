@@ -22,10 +22,10 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝐂𝐚𝐦𝐢𝐥𝐚';
+  const wm = 'Pancito';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* 𝐂𝐚𝐦𝐢𝐥𝐚
+ [🤴🏻] *Prop.:* Pancito
  [#️⃣] *WA:* wa.me/+56971573441
 
  [💡] *Ping:* ${rtime}
@@ -68,8 +68,8 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝐂𝐚𝐦𝐢𝐥𝐚",
-        body: "𝐂𝐚𝐦𝐢𝐥𝐚",
+        title: "�𝐚�𝐜𝐢��",
+        body: "�𝐚�𝐜𝐢��",
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
       },

@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['+56971573441', '👑 𝐂𝐚𝐦𝐢𝐥𝐚 - Creador 👑', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫𝐂𝐚𝐦𝐢𝐥𝐚 💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚 💫', false],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚💫', true],
-  ['+56971573441', '💫 𝐂𝐚𝐦𝐢𝐥𝐚¨💫', true],
+  ['+56971573441', '👑 Pancito - Creador 👑', true],
+  ['+56971573441', '💫 Pancito 💫', true],
+  ['+56971573441', '💫 Pancito 💫', true],
+  ['+56971573441', '💫 Pancito 💫', true],
+  ['+56971573441', '💫 Pancito 💫', true],
+  ['+56971573441', '💫 Pancito 💫', true],
+  ['+56971573441', '💫Pancito 💫', true],
+  ['+56971573441', '💫 Pancito 💫', false],
+  ['+56971573441', '💫 Pancito💫', true],
+  ['+56971573441', '💫 Pancito¨💫', true],
   ['+56971573441'],
   ['+56971573441'],
   ['+56971573441'],
@@ -41,11 +41,11 @@ global.suittag = ['+56971573441'];
 global.prems = ['+56971573441'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝐂𝐚𝐦𝐢𝐥𝐚';
-global.wm = '𝐂𝐚𝐦𝐢𝐥𝐚';
-global.titulowm = '𝐂𝐚𝐦𝐢𝐥𝐚';
-global.titulowm2 = `𝐂𝐚𝐦𝐢𝐥𝐚`
-global.igfg = '𝐂𝐚𝐦𝐢𝐥𝐚';
+global.author = 'Pancito';
+global.wm = 'Pancito';
+global.titulowm = 'Pancito';
+global.titulowm2 = `Pancito`
+global.igfg = 'Pancito';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,9 +66,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐂𝐚𝐦𝐢𝐥𝐚 🤖`;
-global.gt = '𝐂𝐚𝐦𝐢𝐥𝐚 🤖';
-global.mysticbot = '𝐂𝐚𝐦𝐢𝐥𝐚 🤖';
+global.wm2 = `${dia} ${fecha}\nPancito 🤖`;
+global.gt = 'Pancito 🤖';
+global.mysticbot = 'Pancito 🤖';
 global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
 global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
 global.waitt = '*[ ⏳ ] Cargando...*';
