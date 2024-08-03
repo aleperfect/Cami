@@ -10,35 +10,35 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['+56971573441', '👑 Pancito - Creador 👑', true],
-  ['+56971573441', '💫 Pancito 💫', true],
-  ['+56971573441', '💫 Pancito 💫', true],
-  ['+56971573441', '💫 Pancito 💫', true],
-  ['+56971573441', '💫 Pancito 💫', true],
-  ['+56971573441', '💫 Pancito 💫', true],
-  ['+56971573441', '💫Pancito 💫', true],
-  ['+56971573441', '💫 Pancito 💫', false],
-  ['+56971573441', '💫 Pancito💫', true],
-  ['+56971573441', '💫 Pancito¨💫', true],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'], 
-  ['+56971573441'],  
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'],
-  ['+56971573441'], 
-  ['+56971573441'], 
-  ['+56971573441']
+  ['+56933051937', '👑 Pancito - Creador 👑', true],
+  ['+56933051937', '💫 Pancito 💫', true],
+  ['+56933051937', '💫 Pancito 💫', true],
+  ['+56933051937', '💫 Pancito 💫', true],
+  ['+56933051937', '💫 Pancito 💫', true],
+  ['+56933051937', '💫 Pancito 💫', true],
+  ['+56933051937', '💫Pancito 💫', true],
+  ['+56933051937', '💫 Pancito 💫', false],
+  ['+56933051937', '💫 Pancito💫', true],
+  ['+56933051937', '💫 Pancito¨💫', true],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'], 
+  ['+56933051937'],  
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'],
+  ['+56933051937'], 
+  ['+56933051937'], 
+  ['+56933051937']
 ];
 
-global.suittag = ['+56971573441'];
-global.prems = ['+56971573441'];
+global.suittag = ['+56933051937'];
+global.prems = ['+56933051937'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
 global.author = 'Pancito';
@@ -74,7 +74,7 @@ global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '+56971573441';
+global.nomorown = '+56933051937';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
